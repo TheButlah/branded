@@ -1,0 +1,9 @@
+# Cargo stuff
+**/target
+
+# OS-specific stuff
+.DS_Store
+
+# IDE stuff
+/workspace.code-workspace
+/.vscode/
